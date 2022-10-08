@@ -1,0 +1,62 @@
+.App {
+  text-align: center;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.navbar {
+  background-color: rebeccapurple;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  text-shadow: 1px 1px black;
+  color: lavender;
+}
+
+.btn {
+  background-color: lavender;
+  box-shadow: 1px 1px black;
+}
+
+.btn-submit {
+  background-color: thistle;
+}
+
+.card {
+  margin: 5px;
+  background-color: thistle;
+}
+
+.book-form {
+  background-color: lavender;
+}
+
+.card-main {
+  width: 18rem;
+}
+
+a:hover {
+  color: white;
+}
+
+#book-thoughts {
+  color: lavender;
+  text-decoration: none;
+}
+
+#card-footer-dashboard {
+  background-color: transparent;
+  border-top: 0px;
+}
+
+button {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+
+.on {
+  color: #000;
+}
+
+.off {
+  color: #ccc;
+}
