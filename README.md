@@ -6,4 +6,4 @@ Book Thoughts was created with full stack JavaScript using MERN (MongoDB, Expres
 
 The website has full CRUD operations and allows users to add their book review (aka Book Thoughts) to the database that displays on the main page.
 
-I plan to add additional features in the future, such as login and registration as well as other interactions between users.
+I'm currently working on adding user authorization features like login and registration, so please check out the "loginandreg" branch to see my progress.
